@@ -4,10 +4,20 @@
   - [Github 設定](#github-設定)
     - [設定識別資料](#設定識別資料)
 
+## 上課教材
+
+Google Drive 連結
+
+Dropbox 連結
+
+## 程式碼範例
+
+參考GITHUB
+
 ## Github 設定
 
 ### 設定識別資料
-在你安裝 Git 後首先應該做的事是設定使用者名稱及電子郵件。 
+在你安裝 Git 後首先應該做的事是設定使用者名稱及電子郵件。
 
 ```
 $ git config --global user.name "John Doe"
